@@ -1,0 +1,15 @@
+{
+    "name": "startbootstrap-full-width-pics",
+    "title": "Full Width Pics",
+    "version": "4.0.0-alpha",
+    "homepage": "http://startbootstrap.com/template-overviews/full-width-pics",
+    "author": "Start Bootstrap",
+    "license": {
+        "type": "MIT",
+        "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-full-width-pics.git"
+    }
+}
