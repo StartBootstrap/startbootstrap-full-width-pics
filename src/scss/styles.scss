@@ -1,0 +1,9 @@
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap.scss";
+
+.bg-image-full {
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+}
